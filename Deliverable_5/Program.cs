@@ -37,7 +37,6 @@ namespace Deliverable_5
         {
             Console.WriteLine("Please enter integer between 5 and 15");
             int input = int.Parse(Console.ReadLine());
-            string word = Console.ReadLine();
 
             int[] sampleArray = random_array(input);
 
